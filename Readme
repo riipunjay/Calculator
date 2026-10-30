@@ -1,0 +1,9 @@
+This is a calculator program
+User can do following operations:
+1. Additon
+2. Substraction
+3. Multiplication
+4. Division
+5. Modulo
+
+This program has an infinite loop going on, and only when user enters 'x' or 'X' the program is going to end.
